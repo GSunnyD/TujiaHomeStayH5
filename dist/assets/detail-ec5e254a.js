@@ -1,1 +1,0 @@
-import{a4 as e,a5 as t,a6 as a,a9 as s}from"./index-ad8ab576.js";const o={},c={class:"detail top-page"},n=s("h1",null,"detail",-1),_=[n];function r(d,i){return t(),a("div",c,_)}const f=e(o,[["render",r]]);export{f as default};
